@@ -3,12 +3,12 @@
     public class Settings
     {
         // Website Stuff
-        public static readonly string RegisterWebsiteURL = "http://ace.gaming-paradise.net/index.php?site=register";
-        public static readonly string RuleWebsiteURL = "http://ace.gaming-paradise.net/index.php?site=rules";
+        public static readonly string RegisterWebsiteURL = "ADD YOUR REGISTER LINK HERE (WORKS WITH POST REQUESTS)";
+        public static readonly string RuleWebsiteURL = "ADD YOUR RULES LINK HERE";
 
         // Update Stuff
-        public static readonly string UpdateBaseURL = "http://ace.gaming-paradise.net/download/client/";
-        public static readonly string HashlistURL = "http://ace.gaming-paradise.net/download/client.md5";
+        public static readonly string UpdateBaseURL = "http://<your website>/download/client/";
+        public static readonly string HashlistURL = "http://<your website>/download/client.md5";
 
         // Server Socket Stuff
         public static readonly string ServerIP = "127.0.0.1";
